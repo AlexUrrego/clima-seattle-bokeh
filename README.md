@@ -2,7 +2,7 @@
 
 Visualización interactiva del clima diario de Seattle entre 2012 y 2015, hecha con **Bokeh**. Genera un archivo HTML autocontenido que funciona sin servidor ni conexión a internet.
 
-**[Ver demo](https://TU_USUARIO.github.io/clima-seattle-bokeh/visualizacion_clima_seattle.html)**
+**[Ver demo](https://AlexUrrego.github.io/clima-seattle-bokeh/visualizacion_clima_seattle.html)**
 
 ## Qué muestra este proyecto
 
